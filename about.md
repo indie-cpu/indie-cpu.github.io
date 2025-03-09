@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
+title: indie-cpu
 permalink: /about/
+tags: about
 ---
 
-About Typographical.
