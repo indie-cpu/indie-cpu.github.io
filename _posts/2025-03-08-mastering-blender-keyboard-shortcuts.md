@@ -4,7 +4,7 @@ title: Mastering Blender Keyboard Shortcuts
 date: 2025-03-08 12:30:00 
 summary: Learn the essential keyboard shortcuts to speed up your Blender workflow. 
 categories: blender shortcuts 3d
-___
+---
 
 Blender is an incredibly powerful tool for 3D modeling, animation, and rendering, and mastering its keyboard shortcuts 
 can significantly speed up your workflow. The key to efficient 3D work is knowing the right shortcut for the job, 
